@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_portfolio=self.webpackChunkreact_portfolio||[]).push([[124],{124:(e,i,n)=>{n.r(i),n.d(i,{default:()=>r});n(43);var s=n(579);function r(){return(0,s.jsxs)("div",{className:"section",children:[(0,s.jsx)("h1",{children:"About Me"}),(0,s.jsx)("p",{children:"Hi, I\u2019m a passionate web developer skilled in React, JavaScript, and front-end design. I love building modern, responsive, and user-friendly web applications."})]})}}}]);
+//# sourceMappingURL=124.b345d6b2.chunk.js.map

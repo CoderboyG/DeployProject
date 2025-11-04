@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_portfolio=self.webpackChunkreact_portfolio||[]).push([[822],{822:(e,s,r)=>{r.r(s),r.d(s,{default:()=>o});r(43);var t=r(579);function o(){return(0,t.jsxs)("div",{className:"section",children:[(0,t.jsx)("h1",{children:"Resume"}),(0,t.jsx)("a",{href:"https://docs.google.com/document/d/1POzUsIZh5-BoOrE85DW8ZuaRTDcFC4yU/edit?usp=sharing&ouid=100218736539778723867&rtpof=true&sd=true",target:"page",children:"Download My Resume"})]})}}}]);
+//# sourceMappingURL=822.806d90ed.chunk.js.map

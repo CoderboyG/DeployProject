@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_portfolio=self.webpackChunkreact_portfolio||[]).push([[697],{697:(s,e,l)=>{l.r(e),l.d(e,{default:()=>i});l(43);var c=l(579);function i(){return(0,c.jsxs)("div",{className:"section",children:[(0,c.jsx)("h1",{children:"Skills"}),(0,c.jsx)("ul",{className:"skills",children:["React","JavaScript","Node.js","CSS","HTML","Git"].map((s,e)=>(0,c.jsx)("li",{children:s},e))})]})}}}]);
+//# sourceMappingURL=697.c329281b.chunk.js.map
